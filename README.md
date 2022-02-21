@@ -1,12 +1,12 @@
 # Zomato_EDA
 This Project Contain exploratory data analysis on Zomato Dataset .
 Analysis -:
-
 #1. Finding Missing Values in the data set By using HeatMap.
   ![CHEESE!](https://user-images.githubusercontent.com/79394138/154931935-688d6384-230a-4b61-9051-d5806678803b.png)     
   
 #2. Created Pie chart for Top 4 countrys using Zomato.
-  ![image](https://user-images.githubusercontent.com/79394138/154932709-e699429e-b06e-4926-acaa-9315150bf68b.png)
+ 
+ ![image](https://user-images.githubusercontent.com/79394138/154932709-e699429e-b06e-4926-acaa-9315150bf68b.png)
 ##Observations-1
 From this Pie chart We can see 94.78% records are from India nad then 4.73% From United States .
 Zomato Major Business is happening in India.
